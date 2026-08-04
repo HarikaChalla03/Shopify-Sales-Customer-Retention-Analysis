@@ -37,7 +37,8 @@ The dataset contains Shopify transaction-level sales data used to analyze sales 
 - Data Modeling
 - Microsoft Excel
 
-# Business Problem
+# Project Workflow
+ - Business Problem
  - Data Collection
  - Data Cleaning (Power Query)
  - Data Modeling
