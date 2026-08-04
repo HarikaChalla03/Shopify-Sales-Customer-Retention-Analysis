@@ -1,3 +1,13 @@
+## Author
+
+**Harika**
+
+Data Analyst | Power BI | SQL | Python
+
+- LinkedIn: https://www.linkedin.com/in/challa-harika/
+- Portfolio: 
+- GitHub: https://github.com/HarikaChalla03?tab=repositories
+
 # Shopify-Sales-Customer-Retention-Analysis
 An end-to-end Power BI project that analyzes Shopify sales performance, customer retention, repeat purchase behavior, and customer lifetime value (CLV) to identify revenue growth opportunities.
 
