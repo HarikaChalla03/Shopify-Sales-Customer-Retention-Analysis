@@ -38,24 +38,10 @@ The dataset contains Shopify transaction-level sales data used to analyze sales 
 - Microsoft Excel
 
 # Business Problem
-        │
-        ▼
-Data Collection
-        │
-        ▼
-Data Cleaning (Power Query)
-        │
-        ▼
-Data Modeling
-        │
-        ▼
-DAX Calculations
-        │
-        ▼
-Dashboard Development
-        │
-        ▼
-Business Analysis
-        │
-        ▼
-Insights & Recommendations
+ - Data Collection
+ - Data Cleaning (Power Query)
+ - Data Modeling
+ - DAX Calculations
+ - Dashboard Development
+ - Business Analysis
+ - Insights & Recommendations
