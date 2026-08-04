@@ -8,7 +8,7 @@ Data Analyst | Power BI | SQL | Python
 - Portfolio: 
 - GitHub: https://github.com/HarikaChalla03?tab=repositories
 
-This project was completed as part of my Data Analyst internship to demonstrate business intelligence, data visualization, and analytical problem-solving skills.
+This project was completed as part of my Data Analyst internship to analyze Shopify sales data and generate business insights using Power BI, DAX, and Power Query. It focuses on sales performance, customer behavior, and customer retention to support data-driven business decision-making.
 
 # Shopify-Sales-Customer-Retention-Analysis
 An end-to-end Power BI project that analyzes Shopify sales performance, customer retention, repeat purchase behavior, and customer lifetime value (CLV) to identify revenue growth opportunities.
