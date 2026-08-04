@@ -46,3 +46,7 @@ The dataset contains Shopify transaction-level sales data used to analyze sales 
  - Dashboard Development
  - Business Analysis
  - Insights & Recommendations
+
+© 2026 Harika. This project was created for educational and portfolio purposes.
+
+Please do not redistribute or claim this work as your own without permission.
