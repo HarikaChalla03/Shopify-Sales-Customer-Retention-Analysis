@@ -10,3 +10,52 @@ Measure customer retention and repeat purchase rates.
 Identify high-value customers using Customer Lifetime Value (CLV).
 Evaluate product and geographic performance.
 Generate actionable recommendations to improve customer retention and revenue.
+
+# Dataset Overview
+
+The dataset contains Shopify transaction-level sales data used to analyze sales performance, customer behavior, and retention.
+
+# Key Fields
+
+- Order Number
+- Invoice Date
+- Customer ID
+- Product Type
+- Product ID
+- Quantity
+- Revenue
+- Total Tax
+- Payment Gateway
+- City
+- Country
+
+# Tools & Technologies
+
+- Microsoft Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Microsoft Excel
+
+# Business Problem
+        │
+        ▼
+Data Collection
+        │
+        ▼
+Data Cleaning (Power Query)
+        │
+        ▼
+Data Modeling
+        │
+        ▼
+DAX Calculations
+        │
+        ▼
+Dashboard Development
+        │
+        ▼
+Business Analysis
+        │
+        ▼
+Insights & Recommendations
