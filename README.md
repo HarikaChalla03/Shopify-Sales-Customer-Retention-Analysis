@@ -59,6 +59,6 @@ The dataset contains Shopify transaction-level sales data used to analyze sales 
  - Business Analysis
  - Insights & Recommendations
 
-© 2026 Harika. All rights reserved.
+# © 2026 Harika. All rights reserved.
 
 This repository showcases my work in data analytics and business intelligence. Please do not redistribute or claim this work as your own without permission.
